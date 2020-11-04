@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Lautaro, a simple developer and designer from Buenos Aires, Argentina. If you want you can check my repos, maybe you'll find some interesting projects.
+
 <!--
 **imlautaro/imlautaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
